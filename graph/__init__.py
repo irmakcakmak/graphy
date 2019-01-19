@@ -1,6 +1,7 @@
 class Graph():
     def __init__(self, size):
         self.__adj = [set() for x in range(size)]
+        self.size = size
 
     def add(self, v, w):
         self.__adj[v].add(w)
