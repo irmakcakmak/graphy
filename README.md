@@ -1,1 +1,1 @@
-Graph and BFS implementation in Python.
+Graph and DFS implementation in Python.
