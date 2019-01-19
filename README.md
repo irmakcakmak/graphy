@@ -1,1 +1,1 @@
-Graph and DFS implementation in Python.
+Graph, DFS, BFS, Connected Component implementations in Python.
